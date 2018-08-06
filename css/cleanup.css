@@ -10,10 +10,8 @@
  display: none;
 }
 
-. parent #wall #tag-4 {
-  background: url(../images/tag-4.png) no-repeat;
-  z-index: 4;
-  display: block;
+.parent #wall #tag-4 {
+ display: none;
 }
 
 div#wall .parent #tag-5.slick {
